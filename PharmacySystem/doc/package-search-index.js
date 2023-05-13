@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"pharmacy_system","l":"pharmacy"}];updateSearchResults();
